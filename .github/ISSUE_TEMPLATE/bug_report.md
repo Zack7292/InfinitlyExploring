@@ -1,38 +1,32 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Use to report the bugs you found
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**General information**
+Modpack version:
+is it in server?:
+Did it crash?:
+ -if yes, put your crash log here:
+what mod seem to cause the issue:
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**the issue itself**
+How did you encounter the issue (what did you do before it happen):
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+What were you expecting to happen?:
 
-**Additional context**
-Add any other context about the problem here.
+
+
+
+how could we fix this?:
+
+
+
+other:
